@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ClasificacionInstrumentos</string>
+    <string name="pie_pagina1">Facultad de Artes</string>
+    <string name="pie_pagina2">www.artesandrea.com</string>
+    <string name="descripcion_instrumento">Descripcion del tipo de instrumento. Seleccione un instrumento del menu de la izquierda</string>
+
+    <string-array name="instrumentos">
+        <item>Instrumentos de Cuerda</item>
+        <item>Instrumentos de Percución</item>
+        <item>Instrumentos de Viento</item>
+        <item>Instrumentos Electronicos</item>
+    </string-array>
+
+    <string-array name="descripciones">
+        <item>
+            Los instrumentos de cuerda son aquellos que producen sonido por la vibración de una
+            serie de cuerdas a partir de la acción humana aplicada con los dedos, con el puño o
+            con elementos accesorios de diferente tipo.Justamente la clasificación de los
+            instrumentos de cuerda que conforman un grupo enorme, tal vez el mayoritario dentro
+            de los instrumentos que existen se basa en el modo en que la cuerda produce el sonido.
+        </item>
+        <item>
+            Los instrumentos de percusión son aquellos que producen música a partir de las ondas
+            obtenidas tras golpear rítmicamente una superficie determinada del mismo. Dichos golpes
+            pueden darse con la mano o con un instrumento (a menudo llamado baqueta) o incluso con
+            dos partes distintas del mismo instrumento. Estos instrumentos pueden emplearse para
+            producir patrones rítmicos o bien notas musicales de escala, y en ello estriba su principal
+            diferenciación: de altura indefinida o no afinados, para el primer grupo; y de altura
+            definida o afinados, para el segundo.
+        </item>
+        <item>
+            Los instrumentos de viento corresponden a una categoría de medios para producir sonido de
+            una manera muy particular, la que muchos consideran de mayor contacto con el cuerpo humano,
+            ya que esta se realiza por la boca, y por ende, más ligada a la expresión sentimental del
+            hombre.Da cuenta de esto el hecho de que los instrumentos de viento, al menos en varios
+            géneros de la música popular occidental, no son elementos ‘de fondo’, sino que participan
+            como instrumentos protagónicos o de primer plano, con ‘fraseos’ muy determinados o incluso
+            con ‘solos’. De todos modos, esto no debe tomarse como una norma general.
+        </item>
+        <item>
+            Un instrumento musical eléctrico es uno en el cual el uso de aparatos eléctricos determina
+            o afecta el sonido producido por un instrumento."Electric Musical Instruments." (Los
+            Instrumentos Musicales eléctricos.). Esto es también conocido como un instrumento musical
+            amplificado debido a la utilización común de un amplificador electrónico del instrumento para
+            proyectar el sonido pretendido como determinado por señales electrónicas del instrumento
+            mecánico. Esto no es lo mismo que un instrumento musical electrónico, lo cual usa una manera
+            enteramente electrónica para crear y controlar el sonido.
+        </item>
+    </string-array>
+</resources>
